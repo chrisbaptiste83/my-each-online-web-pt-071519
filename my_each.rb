@@ -9,5 +9,3 @@ def my_each(array)
   array
 end
 
-my_each {|x| 
-  puts x}
